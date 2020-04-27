@@ -1,0 +1,5 @@
+node_modules
+nodeJS.txt
+.env
+.idea
+dist
